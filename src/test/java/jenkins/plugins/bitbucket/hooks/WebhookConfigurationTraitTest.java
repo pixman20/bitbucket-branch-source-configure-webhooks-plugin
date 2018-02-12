@@ -1,6 +1,7 @@
 package jenkins.plugins.bitbucket.hooks;
 
 import com.cloudbees.jenkins.plugins.bitbucket.BitbucketSCMSourceContext;
+import com.cloudbees.jenkins.plugins.bitbucket.hooks.WebhookConfiguration;
 import jenkins.scm.api.SCMHeadObserver;
 import org.junit.Test;
 
